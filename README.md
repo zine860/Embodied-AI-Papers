@@ -1,6 +1,6 @@
 # Embodied-AI-Papers
 
-This repository contains a the latest research papers for embodied AI organized by categories. For more detailed analysis, follow me [here](https://x.com/alexkoven).
+This repository contains the latest research papers for embodied AI organized by categories. For more detailed analysis, follow me [here](https://x.com/alexkoven).
 
 ## Table of Contents
 
